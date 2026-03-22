@@ -593,13 +593,13 @@ body {
   bottom: 0vmin;
   width: 1vmin;
   height: 1vmin;
-  background-color: lightpink;
+  background-color: yellow;
   border-radius: 50%;
   filter: blur(0.2vmin);
   animation: light-ans 4s linear infinite backwards;
 }
 .flower__light:nth-child(odd) {
-  background-color: #FFB6C1;
+  background-color: #ffff00;
 }
 .flower__light--1 {
   left: -2vmin;
